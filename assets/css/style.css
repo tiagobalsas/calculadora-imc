@@ -1,0 +1,7 @@
+:root {
+  --primery-color: #483d8b;
+}
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
